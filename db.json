@@ -1,16 +1,19 @@
 {
-  "posts":[
+  "productos": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "nombre": "PESCADO",
+      "precio": 300,
+      "id": 2
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "nombre": "LIMONES",
+      "precio": 100,
+      "id": 3
+    },
+    {
+      "nombre": "VERDURAS",
+      "precio": 100,
+      "id": 4
     }
   ]
 }
